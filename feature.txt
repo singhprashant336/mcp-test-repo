@@ -1,1 +1,1 @@
-This is a feature file added to enable pull request creation.
+This is a feature file for testing purposes.
